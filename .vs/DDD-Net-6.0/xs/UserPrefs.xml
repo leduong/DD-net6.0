@@ -1,0 +1,44 @@
+﻿<Properties StartupConfiguration="{5A7EF3C0-AE6E-4859-A68F-32E17EADA408}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="App.Application/Services/Category/CategoryService.cs">
+    <Files>
+      <File FileName="App.Infrastructure/Persistence/Configuration/AppDBContext.cs" />
+      <File FileName="App.Infrastructure/Persistence/DBSeed/AppDBContext.cs" />
+      <File FileName="App.ApiService/Program.cs" />
+      <File FileName="App.ApiService/appsettings.json" />
+      <File FileName="App.ApiService/Controllers/TasksController.cs" />
+      <File FileName="App.Infrastructure/Persistence/Repositories/TaskRepository.cs" Line="76" Column="1" />
+      <File FileName="App.Domain/Entities/Task.cs" />
+      <File FileName="App.Infrastructure/Migrations/20230709082116_Init.cs" />
+      <File FileName="App.Application/Services/Category/CategoryService.cs" Line="14" Column="57" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DDD-Net-6.0" expanded="True">
+            <Node name="App.ApiService" expanded="True" />
+            <Node name="App.Application" expanded="True">
+              <Node name="Services" expanded="True">
+                <Node name="Category" expanded="True">
+                  <Node name="CategoryService.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="App.Infrastructure" expanded="True">
+              <Node name="Persistence" expanded="True">
+                <Node name="Configuration" expanded="True" />
+                <Node name="Repositories" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.App.ApiService PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
