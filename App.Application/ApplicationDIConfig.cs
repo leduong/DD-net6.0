@@ -15,7 +15,7 @@ namespace App.Application
         public static void AddConfig(IServiceCollection services)
         {
             services.AddScoped(typeof(IBaseService<>), typeof(BaseService<>));
-
+        
         }
     }
 }
